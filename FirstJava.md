@@ -1,6 +1,6 @@
 Hello, this is Neonr4in and here is my first ever GitHub Pages post.
 
-`/*
+```*
  * Copyright (c) 2018, praktek
  * All rights reserved.
  *
@@ -44,4 +44,4 @@ public class Mhs {
     public String getNim() {
         return this.nim;
     }
-}`
+}```
