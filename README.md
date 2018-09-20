@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can access some of my project, [Here the first](neonr4in.github.io/gh-pages/FirstJava)
+You can access some of my project, [Here the first](gh-pages/FirstJava)
 
 ### Markdown
 
